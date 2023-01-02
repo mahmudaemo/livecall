@@ -1,0 +1,139 @@
+@media(max-width:1200px){
+    .banner-call h1, .banner-livecall h1, footer h1 {
+        font-size: 45px;
+    }
+    .livecall h3 {
+        width: 250px;
+        font-size: 30px;
+    }
+    .livecall img {
+        width: 78px;
+    }
+    .call-item {
+        width: 30%;
+    }
+    .livecall_about {
+        padding: 30px 60px 40px 30px;
+        height: 329px;
+    }
+    .getstart_heading h1, .process h1, .industry_section h1 {
+        font-size: 44px;
+    }
+    .call-text p {
+        font-size: 19px;
+    }
+    .call-text h3{
+        font-size: 25px;
+    }
+    .process_content {
+        height: 427px;
+    }
+    .content {
+        height: 354px;
+    }
+}
+@media(max-width:992px){
+    .banner-call h1, .banner-livecall h1 footer h1 {
+        font-size: 33px;
+    }
+    .btn-quote {
+        font-size: 14px;
+    }
+    .navbar-nav .nav-item .nav-link {
+        font-size: 15px;
+        color: #242424;
+    }
+    header{
+        min-height: 0;
+    }
+    .navbar-light .navbar-toggler {
+        color: transparent;
+        border-color: transparent;
+    }
+    .navbar-expand-lg .navbar-nav {
+        align-items: flex-start;
+    }
+    .banner-livecall p {
+        font-size: 15px;
+    }
+    .livecall_section p {
+        font-size: 15px;
+    }
+    .call-item {
+        width: 50%;
+    }
+    .livecall h3 {
+        font-weight: 400;
+        font-size: 24px;
+    }
+    .get img{
+        padding-top: 350px;
+    }
+    .call-text h3 {
+        font-size: 23px;
+    }
+    .call-text p {
+        font-size: 16px;
+    }
+    .getstart_heading h1, .process h1, .industry_section h1{
+        font-size: 40px;
+    }
+    .process_content p {
+        font-size: 14px;
+        line-height: 19px;
+    }
+    .process_content h6 {
+        font-size: 21px;
+    }
+    .content ul li {
+        font-size: 14px;
+    }
+    .content_text img {
+        width: 56px;
+    }
+    .content_text h5 {
+        font-size: 16px;
+    }
+    .footer_text{
+        margin-top: 15px;
+    }
+}
+@media(max-width:768px){
+    .banner-call h1{
+        font-size: 25px;
+    }
+    .banner-call span {
+        margin-bottom: 10px;
+    }
+    .livecall_about {
+        height: 280px;
+    }
+    .livecall h3 {
+        font-weight: 600;
+    }
+    .livecall_section p {
+        font-size: 16px;
+    }
+    .call-item {
+        width: 20%;
+    }
+    .get img {
+        padding-top: 56px;
+        margin-left: 114px;
+    }
+    .process_content {
+        height: 300px;
+    }
+    .process_part{
+        margin-top: 50px;
+    }
+    .process_content p {
+        line-height: 35px;
+    }
+    .content {
+        height: 300px;
+    }
+    .industry_part{
+        margin-top: 20px;
+    }
+}
